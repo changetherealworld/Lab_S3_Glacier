@@ -1,5 +1,7 @@
 # Lab_S3_Glacier
 To-do list:
-- Hand-on lab (Doing).
-- Make structure.
-- Write doc.
+- Làm lab (Doing).
+- Tạo cấu trúc nội dung.
+- Làm lab lại.
+- Viết nội dung.
+- Duyệt nội dung.
