@@ -5,7 +5,7 @@ To-do list:
   + Step2: Tạo vault (Passed).
   + Step3: Upload archive lên Vault:
     #Step3.1:Sử dụng Java (doing).
-    #Step3.2: Sử dụng .NET.
+    #Step3.2: Sử dụng .NET (doing) (có rắc rối trong việc sử dụng .NET trên VSCode).
   + Step4: Download archive từ Vault:
     #Step4.1: Sử dụng Java
     #Step4.2: Sử dụng .NET
