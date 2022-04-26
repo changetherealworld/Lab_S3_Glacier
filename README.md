@@ -1,5 +1,5 @@
 # Lab_S3_Glacier
-To-do list:
+To-do list: (delay)
 - Làm lab và tìm hiểu bài (Doing).
   + Step1: Các bước chuẩn bị (passed).
   + Step2: Tạo vault (Passed).
